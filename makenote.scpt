@@ -11,6 +11,6 @@ end tell
 
 tell application "Notes"
     tell account "iCloud"
-	make new note at folder "tester" with properties {name:"fuck you2", body:notebody2}
+	make new note at folder "tester" with properties {name:"test2", body:notebody2}
     end tell
 end tell
