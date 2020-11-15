@@ -5,7 +5,7 @@ set fl2 to POSIX file "/Users/sachiniyer/docs/publish/email.html"
 set notebody2 to read file fl2
 tell application "Notes"
     tell account "iCloud"
-	make new note at folder "tester" with properties {name:"fuck you", body:notebody}
+	make new note at folder "tester" with properties {name:"test", body:notebody}
     end tell
 end tell
 
