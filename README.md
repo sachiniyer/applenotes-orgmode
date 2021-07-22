@@ -1,3 +1,5 @@
+# applenotes-orgmode
+
 this is a thing to sync org mode and emacs stuff
 
 so far i've got emacs to apple notes
